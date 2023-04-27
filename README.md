@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KonstantinosPC
 - 👀 I’m interested in Coding (Programs, Minecraft Servers, Games)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Minecraft Developing
+- 📫 How to reach me
 
 <!---
 KonstantinosPC/KonstantinosPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
