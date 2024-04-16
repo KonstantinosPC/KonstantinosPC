@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KonstantinosPC
 - 👀 I’m interested in Coding (Programs, Minecraft Servers, Games)
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Minecraft Developing
+- 💞️ I’m looking to collaborate on Minecraft Developing, Hardware/Software maker
 - 📫 How to reach me
 
 <!---
